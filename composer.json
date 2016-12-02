@@ -1,0 +1,30 @@
+{
+    "name": "blast-project/blast-extras",
+    "type": "symfony-bundle",
+    "description": "Wrapper package for Blast",
+    "require": {
+        "blast-project/utils-bundle" : "dev-master",
+        "blast-project/base-entities-bundle": "dev-master"
+    },
+    "license":  "GPL-3.0",
+    "keywords": ["symfony", "doctrine", "outer extension"],
+    "homepage": "http://github.com/blast-project/BlastExtras",
+    "authors": [
+        {
+           "name": "Baptiste SIMON",
+           "email": "baptiste.simon@libre-informatique.fr"
+        },
+        {
+           "name": "Romain SANCHEZ",
+           "email": "romain.sanchez@libre-informatique.fr"
+        },       
+        {
+           "name": "Marcos Bezerra de Menezes",
+           "email": "marcos.bezerra@libre-informatique.fr"
+        },
+        {
+           "name": "Libre Informatique",
+           "homepage": "http://www.libre-informatique.fr/"
+        }
+    ]
+}
