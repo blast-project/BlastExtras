@@ -3,8 +3,8 @@
     "type": "symfony-bundle",
     "description": "Wrapper package for Blast",
     "require": {
-        "blast-project/utils-bundle" : "dev-master",
-        "blast-project/base-entities-bundle": "dev-master"
+        "blast-project/utils-bundle" : "^0.4",
+        "blast-project/base-entities-bundle": "^0.4"
     },
     "license":  "GPL-3.0",
     "keywords": ["symfony", "doctrine", "outer extension"],
