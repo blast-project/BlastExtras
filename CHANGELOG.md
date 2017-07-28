@@ -1,10 +1,10 @@
 # Change Log
 
-## [0.4.4](https://github.com/blast-project/BlastExtras/tree/0.4.4) (2017-06-27)
-[Full Changelog](https://github.com/blast-project/BlastExtras/compare/0.4.5...0.4.4)
+## [0.4.5](https://github.com/blast-project/BlastExtras/tree/0.4.5) (2017-07-26)
+[Full Changelog](https://github.com/blast-project/BlastExtras/compare/0.4.4...0.4.5)
 
-## [0.4.5](https://github.com/blast-project/BlastExtras/tree/0.4.5) (2017-06-27)
-[Full Changelog](https://github.com/blast-project/BlastExtras/compare/0.4.3...0.4.5)
+## [0.4.4](https://github.com/blast-project/BlastExtras/tree/0.4.4) (2017-06-27)
+[Full Changelog](https://github.com/blast-project/BlastExtras/compare/0.4.3...0.4.4)
 
 ## [0.4.3](https://github.com/blast-project/BlastExtras/tree/0.4.3) (2017-06-15)
 [Full Changelog](https://github.com/blast-project/BlastExtras/compare/0.4.2...0.4.3)
